@@ -456,7 +456,7 @@ const booksData = [
     "price": 1870,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://shop.genic-web.com/collections/genic-magazine",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "http://shop.genic-web.com/cdn/shop/files/ogp-logo_b3523d09-5677-4abc-bb17-8d8dae3ac71f.png?v=1630058773"
   },
   {
     "id": 52,
@@ -465,7 +465,7 @@ const booksData = [
     "price": 2970,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://store.tkj.jp/shopdetail/000000014248/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://makeshop-multi-images.akamaized.net/tkjstore/itemimages/000000014248_iafi3gB.jpg"
   },
   {
     "id": 53,
@@ -474,7 +474,7 @@ const booksData = [
     "price": 990,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102220/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/PO202604.jpg?t=20260306170748"
   },
   {
     "id": 54,
@@ -483,7 +483,7 @@ const booksData = [
     "price": 990,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102220/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/PO202604.jpg?t=20260306170748"
   },
   {
     "id": 55,
@@ -492,7 +492,7 @@ const booksData = [
     "price": 990,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102220/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/PO202603.jpg?t=20260206095225"
   },
   {
     "id": 56,
@@ -501,7 +501,7 @@ const booksData = [
     "price": 990,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102220/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/4912180290262.jpg?t=20260107173148"
   },
   {
     "id": 57,
@@ -510,7 +510,7 @@ const booksData = [
     "price": 990,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102220/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/PO202601.jpg?t=20251208102724"
   },
   {
     "id": 58,
@@ -519,7 +519,7 @@ const booksData = [
     "price": 1150,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102212/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/CS202604.jpg?t=20260306145236"
   },
   {
     "id": 59,
@@ -528,7 +528,7 @@ const booksData = [
     "price": 1150,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102212/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/CS202604.jpg?t=20260306145236"
   },
   {
     "id": 60,
@@ -537,7 +537,7 @@ const booksData = [
     "price": 1150,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102212/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/CS202603.jpg?t=20260206095131"
   },
   {
     "id": 61,
@@ -546,7 +546,7 @@ const booksData = [
     "price": 1150,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102212/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/4912125410267.jpg?t=20260106182948"
   },
   {
     "id": 62,
@@ -555,7 +555,7 @@ const booksData = [
     "price": 1150,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102212/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/CS202601.jpg?t=20251208102626"
   },
   {
     "id": 63,
@@ -564,7 +564,7 @@ const booksData = [
     "price": 1080,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102215/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/KU202603.jpg?t=20260116182556"
   },
   {
     "id": 64,
@@ -573,7 +573,7 @@ const booksData = [
     "price": 1080,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102215/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/KU202603.jpg?t=20260116182556"
   },
   {
     "id": 65,
@@ -582,7 +582,7 @@ const booksData = [
     "price": 1080,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102215/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/KU202601.jpg?t=20251117151733"
   },
   {
     "id": 66,
@@ -591,7 +591,7 @@ const booksData = [
     "price": 890,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102208/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/BU1049.jpg?t=20260227181346"
   },
   {
     "id": 67,
@@ -600,7 +600,7 @@ const booksData = [
     "price": 890,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102208/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/BU1048.jpg?t=20260213182200"
   },
   {
     "id": 68,
@@ -609,7 +609,7 @@ const booksData = [
     "price": 890,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102208/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/BU1047.jpg"
   },
   {
     "id": 69,
@@ -618,7 +618,7 @@ const booksData = [
     "price": 890,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102208/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/BU1046.jpg?t=20260113110627"
   },
   {
     "id": 70,
@@ -627,7 +627,7 @@ const booksData = [
     "price": 890,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/102208/list.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/BU1045.jpg?t=20251212182733"
   },
   {
     "id": 71,
@@ -636,7 +636,7 @@ const booksData = [
     "price": 781,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://www.kinokuniya.co.jp/f/dsg-01-9784101363516",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/large/41013/410136351X.jpg"
   },
   {
     "id": 72,
@@ -645,7 +645,7 @@ const booksData = [
     "price": 1980,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://www.tokuma.jp/book/b493433.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "http://www.tokuma.jp/images/book/493433.jpg"
   },
   {
     "id": 73,
@@ -654,7 +654,7 @@ const booksData = [
     "price": 704,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://tkj.jp/book/?cd=TD297129",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://tkj.jp/bookimage/TD297129_20190621141337.jpg"
   },
   {
     "id": 74,
@@ -663,7 +663,7 @@ const booksData = [
     "price": 759,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://www.gentosha.co.jp/book/detail/9784344427617/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://img.gentosha.co.jp/_cover_/9784344427617.jpg?p=book-ogp&func=00"
   },
   {
     "id": 75,
@@ -672,7 +672,7 @@ const booksData = [
     "price": 565,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://www.kadokawaharuki.co.jp/book/detail/detail.php?no=4572",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://m.media-amazon.com/images/I/71Y8T1b5d1L._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": 76,
@@ -681,7 +681,7 @@ const booksData = [
     "price": 1500,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://mishimasha.com/books/9784909394200/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://1satsu-prod.s3.ap-northeast-1.amazonaws.com/Item/17/detail/img_9784909394200_1.jpg"
   },
   {
     "id": 77,
@@ -690,7 +690,7 @@ const booksData = [
     "price": 1600,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://mishimasha.com/books/9784909394798/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://1satsu-prod.s3.ap-northeast-1.amazonaws.com/Item/10233/detail/9784909394798_o78ajy.jpg"
   },
   {
     "id": 78,
@@ -699,7 +699,7 @@ const booksData = [
     "price": 1500,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://mishimasha.com/books/9784903908946/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://1satsu-prod.s3.ap-northeast-1.amazonaws.com/Item/19/detail/kyounojinsei.jpg"
   },
   {
     "id": 79,
@@ -708,7 +708,7 @@ const booksData = [
     "price": 1100,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://www.gentosha.co.jp/book/detail/9784344435452/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://img.gentosha.co.jp/_assets_/ogp.png?p=ogp"
   },
   {
     "id": 80,
@@ -717,7 +717,7 @@ const booksData = [
     "price": 770,
     "category": "暮らしと花のエッセイ",
     "amazon_link": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08746846941846000000",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08746846941846000000/500/08746846941846000000.jpg"
   },
   {
     "id": 81,
@@ -726,7 +726,7 @@ const booksData = [
     "price": 1500,
     "category": "絵本",
     "amazon_link": "https://mishimasha.com/books/9784903908212/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://1satsu-prod.s3.ap-northeast-1.amazonaws.com/Item/122/detail/%E3%80%90resize%E3%80%91%E3%81%AF%E3%82%84%E3%81%8F%E3%81%AF%E3%82%84%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A7.jpg"
   },
   {
     "id": 82,
@@ -735,7 +735,7 @@ const booksData = [
     "price": 1430,
     "category": "絵本",
     "amazon_link": "https://www.doshinsha.co.jp/search/info.php?isbn=9784494006199",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.doshinsha.co.jp/book_imgs/9784494006199.jpg"
   },
   {
     "id": 83,
@@ -744,7 +744,7 @@ const booksData = [
     "price": 1430,
     "category": "絵本",
     "amazon_link": "https://www.doshinsha.co.jp/search/info.php?isbn=9784494006274",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.doshinsha.co.jp/book_imgs/9784494006274.jpg"
   },
   {
     "id": 84,
@@ -753,7 +753,7 @@ const booksData = [
     "price": 17160,
     "category": "絵本",
     "amazon_link": "https://www.doshinsha.co.jp/search/info.php?isbn=9784494042807",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.doshinsha.co.jp/book_imgs/9784494042807.jpg"
   },
   {
     "id": 85,
@@ -762,7 +762,7 @@ const booksData = [
     "price": 880,
     "category": "絵本",
     "amazon_link": "https://www.doshinsha.co.jp/search/info.php?isbn=9784494016143",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.doshinsha.co.jp/book_imgs/9784494016143.jpg"
   },
   {
     "id": 86,
@@ -771,7 +771,7 @@ const booksData = [
     "price": 880,
     "category": "絵本",
     "amazon_link": "https://www.doshinsha.co.jp/search/info.php?isbn=9784494016136",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.doshinsha.co.jp/book_imgs/9784494016136.jpg"
   },
   {
     "id": 87,
@@ -780,7 +780,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 88,
@@ -789,7 +789,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 89,
@@ -798,7 +798,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 90,
@@ -807,7 +807,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 91,
@@ -816,7 +816,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 92,
@@ -825,7 +825,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 93,
@@ -834,7 +834,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 94,
@@ -843,7 +843,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 95,
@@ -852,7 +852,7 @@ const booksData = [
     "price": 1100,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 96,
@@ -861,7 +861,7 @@ const booksData = [
     "price": 550,
     "category": "インセンス",
     "amazon_link": "https://store.lisn.co.jp/shop/e/e2220/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://store.lisn.co.jp/img/goods/S/850001_S.jpg"
   },
   {
     "id": 97,
@@ -870,7 +870,7 @@ const booksData = [
     "price": 5500,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 98,
@@ -879,7 +879,7 @@ const booksData = [
     "price": 7810,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 99,
@@ -888,7 +888,7 @@ const booksData = [
     "price": 5500,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 100,
@@ -897,7 +897,7 @@ const booksData = [
     "price": 7810,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 101,
@@ -906,7 +906,7 @@ const booksData = [
     "price": 5500,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 102,
@@ -915,7 +915,7 @@ const booksData = [
     "price": 5500,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 103,
@@ -924,7 +924,7 @@ const booksData = [
     "price": 5500,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 104,
@@ -933,7 +933,7 @@ const booksData = [
     "price": 5500,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 105,
@@ -942,7 +942,7 @@ const booksData = [
     "price": 2420,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 106,
@@ -951,7 +951,7 @@ const booksData = [
     "price": 2860,
     "category": "花にまつわる雑貨",
     "amazon_link": "https://www.idee-online.com/shop/e/eBirdsW/",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://www.idee-online.com/common/ogimage.png"
   },
   {
     "id": 107,
@@ -960,7 +960,7 @@ const booksData = [
     "price": 9900,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/TEIPO1.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/popeye_teiki_000.jpg"
   },
   {
     "id": 108,
@@ -969,7 +969,7 @@ const booksData = [
     "price": 10900,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/TEICS1.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/casabrutus_teiki.jpg"
   },
   {
     "id": 109,
@@ -978,7 +978,7 @@ const booksData = [
     "price": 5400,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/TEIKU1.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/KUbag.jpg?t=20250828172600"
   },
   {
     "id": 110,
@@ -987,6 +987,6 @@ const booksData = [
     "price": 16300,
     "category": "ライフスタイル・インテリア誌",
     "amazon_link": "https://magazinehouseshop.jp/SHOP/TEIBU1.html",
-    "image_url": "https://placehold.co/400x600/fcfbfa/8fa189.png?text=No+Image"
+    "image_url": "https://image1.shopserve.jp/magazinehouseshop.jp/pic-labo/llimg/brutus_teiki.jpg"
   }
 ];
