@@ -422,7 +422,7 @@
     // LocalStorage or fallback to original data
     let currentBooks = [];
     try {
-        const stored = localStorage.getItem('hanakeno_books');
+        const stored = localStorage.getItem('hanakeno_books_v3');
         if (stored) {
             currentBooks = JSON.parse(stored);
         } else {
@@ -524,7 +524,7 @@
         event.preventDefault(); // Prevent navigating to the link
         if(confirm("このアイテムを削除してもよろしいですか？")) {
             currentBooks = currentBooks.filter(b => b.id !== id);
-            localStorage.setItem('hanakeno_books', JSON.stringify(currentBooks));
+            localStorage.setItem('hanakeno_books_v3', JSON.stringify(currentBooks));
             renderBooks();
         }
     }
@@ -584,7 +584,7 @@
             price: 0
         });
 
-        localStorage.setItem('hanakeno_books', JSON.stringify(currentBooks));
+        localStorage.setItem('hanakeno_books_v3', JSON.stringify(currentBooks));
         renderBooks();
         closeModal();
     }
