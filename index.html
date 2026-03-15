@@ -590,7 +590,7 @@
     }
 
     function downloadJSON() {
-        const jsContent = \`const booksData = \${JSON.stringify(currentBooks, null, 2)};\`;
+        const jsContent = `const booksData = ${JSON.stringify(currentBooks, null, 2)};`;
         const blob = new Blob([jsContent], { type: 'text/javascript' });
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
